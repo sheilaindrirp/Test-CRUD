@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 import java.sql.DriverManager;
 /**
  *
- * @author riskiawp
+ * @author sheilaindrirp
  */
 public class frmMain extends javax.swing.JFrame {
 
