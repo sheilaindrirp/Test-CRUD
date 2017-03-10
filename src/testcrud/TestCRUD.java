@@ -7,7 +7,7 @@ package testcrud;
 
 /**
  *
- * @author riskiawp
+ * @author sheilaindrirp
  */
 public class TestCRUD {
 
